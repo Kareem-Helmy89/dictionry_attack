@@ -1,1 +1,1 @@
-# dictionry_attack
+# dictionary_attack
